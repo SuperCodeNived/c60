@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    padding-top: 550px;
+    text-align: center;
+
+}
+
+
+
+.profile {
+    border-radius: 50%;
+margin-bottom: 50px;
+width: 175px;
+}
+
+
+
+
+
+#welcome {
+    position: absolute;
+    bottom: 0;
+    background: linear-gradient(#9ed8d8 0%, hsl(145, 94%, 49%) 100%);
+    display: table;
+    width: 100%;
+    height: 100%
+}
+
+
+
+
+
+
+h1 {
+    font-size: 40px;
+   font-family: 'Indie Flower', cursive;
+
+}
+
+
+
+
+#name {
+    font-size: 51px;
+    font-family: 'Indie Flower', cursive;
+}
+
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+  font-family: 'Indie Flower', cursive;
+
+}
+
+
+
+
+
+#bio {
+    font-family: cursive;
+    padding: 50px;
+
+}
+
+
+
+
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 8px auto;
+
+}
+
+
+
+.parallax-inner {
+    display: table-cell;
+    vertical-align: middle;
+
+}
+
+
+
+
+.menu {
+    
+    position: fixed;
+    background-color:whitesmoke;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+  
+
+
+
+
+
+
+
+}
+
+
+.links {
+   
+    display: inline;
+    padding-left: 9px;
+    padding-right: 9px;
+     font-size: 20px;
+font-family: fantasy;
+}
+p{
+max-width: 450px;
+margin: 25px auto;
+font-size: 17px;
+line-height: 1.3;
+
+
+}
+
+
+
+
+.links{
+    display: inline;
+    padding-left: 33px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px
+}
+
+
+
+#writings a{
+text-decoration: underline !important;
+color:hsl(246, 80%, 27%);
+font-size: 40px;
+}
+
+
+
+#contact{
+    background:hsl(150, 1%, 59%);
+}
+
+.contact_1 h3{
+    display: inline;
+}
+#contact iframe{
+width: 100%;
+
+}
